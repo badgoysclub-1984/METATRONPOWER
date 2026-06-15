@@ -1,0 +1,11 @@
+# ATTESTATION
+
+**SIGNED AND DATED ATTESTED THIS DATE AND TIME:** Sun Jun 14 21:05:59 CDT 2026
+
+**SIGNED:** OLIVER REBEL
+
+---
+
+**Files included in this attestation:**
+- METAFESTO.pdf
+- BILL_OF_RIGHTS.pdf
